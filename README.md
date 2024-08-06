@@ -2,6 +2,8 @@
 
 A simple leaderboard app built with Python fastAPI backend and a react front-end. This app also features JWT based authentication.
 
+p.s. if you like the work, I am doing, then [buy me a coffee]
+
 ## Backend
 
 Have a look at all the backend code in Python and see how easy it is to build an API with Python fastAPI.
@@ -28,7 +30,7 @@ tutorials and "how-to" articles with detailed code samples.
 
 If you like what I am doing, you can [buy me a coffee]
 
-Click on the next link for more info on the [software engineering career journey] of the author.
+[my blog]: https://mydaytodo.com/blog/
 
 [How to Catch ExpiredJwtException in Spring OncePerRequestFilter]: https://mydaytodo.com/how-to-catch-expiredjwtexception-in-spring-onceperrequestfilter/
 
@@ -45,3 +47,5 @@ Click on the next link for more info on the [software engineering career journey
 [Node Typescript CRUD Notes]: https://github.com/cptdanko/node_typescript_crud_notes
 
 [AWS DynamoDB query by non-primary]: https://mydaytodo.com/how-to-query-dynamodb-with-non-primary-key-column/
+
+[buy me a coffee]: https://buymeacoffee.com/bhumansoni
