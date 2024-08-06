@@ -1,0 +1,17 @@
+Build a leaderboard application that shows user scores in descending order.
+
+Backend
+
+- it has the get scores endpoint [returns a list]
+- it has a write scores endpoint
+- it stores data in a NoSql application (write heavy)
+- it secures the API endpoint by JWT auth
+
+Frontend
+
+A react app powered by MUI that shows a table of scores.
+- simple UI powered by react-mui
+- a component to sign-in/sign-up
+- a component to show a table / list of scores (simple UI nothing fancy)
+
+[Optional]: it applies a BFF pattern and it let's end users search by username

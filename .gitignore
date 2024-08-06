@@ -1,0 +1,6 @@
+*.pyc
+.idea/workspace.xml
+*.log
+.idea/dataSources.ids
+/v1/lib/
+backend/v1/
