@@ -49,3 +49,5 @@ If you like what I am doing, you can [buy me a coffee]
 [AWS DynamoDB query by non-primary]: https://mydaytodo.com/how-to-query-dynamodb-with-non-primary-key-column/
 
 [buy me a coffee]: https://buymeacoffee.com/bhumansoni
+
+[AWS DynamoDB how to]: https://mydaytodo.com/aws-dynamodb-typescript-how-to/
