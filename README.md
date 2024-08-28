@@ -10,7 +10,7 @@ Have a look at all the backend code in Python and see how easy it is to build an
 
 ## Frontend
 
-** to be added **
+The front-end code can be found in the frontend/leaderboard-ui folder and at this stage, it's just a simple react app.
 
 ## Tutorials
 
